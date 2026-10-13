@@ -229,8 +229,6 @@ h2 {
 
 
 .header-inner b {
-    position: absolute;
-    left: 230px;
     font-size: 25px;
 }
 .brand,
@@ -1282,8 +1280,6 @@ h2 {
 
 .footer-brand b{
     font-size: 22px;
-    position: absolute;
-    left: 210px;
 }
 
 .footer-address {
